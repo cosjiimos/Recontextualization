@@ -1,0 +1,5 @@
+Initial shopping intent
+school
+
+Submitted prompts (in event order)
+No prompt_submitted events were recorded in this session.

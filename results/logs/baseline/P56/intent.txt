@@ -1,0 +1,15 @@
+Initial shopping intent
+Camping
+
+Submitted prompts (in event order)
+Event 75 | 124.964 seconds
+funny
+
+Event 76 | 126.131 seconds
+funny
+
+Event 77 | 133.235 seconds
+leak proof
+
+Event 81 | 142.811 seconds
+

@@ -1,0 +1,5 @@
+Initial shopping intent
+travel
+
+Submitted prompts
+backpack for travel abroad
